@@ -1,0 +1,14 @@
+.Odd {
+    background-color: pink; font-family: Verdana, Dejavu sans, sans-serif;
+}
+.Odd.Cooler {
+    font-size: 24px;
+}
+
+#Second {
+    color: blue; font-size: 36px;
+}
+
+#Fourth {
+    background-color: lightgreen; font-size: 24px;
+}
